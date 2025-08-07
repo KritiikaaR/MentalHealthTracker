@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch JavaFX",
+      "request": "launch",
+      "mainClass": "ConsoleUI",
+      "vmArgs": "--module-path C:/Users/kriti/Downloads/openjfx-21.0.2_windows-x64_bin-sdk/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
